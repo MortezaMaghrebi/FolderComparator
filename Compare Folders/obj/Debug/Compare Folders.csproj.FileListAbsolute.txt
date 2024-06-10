@@ -1,0 +1,34 @@
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\bin\Debug\Compare Folders.exe.config
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\bin\Debug\Compare Folders.exe
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\bin\Debug\Compare Folders.pdb
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.AssemblyReference.cache
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare_Folders.Form1.resources
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare_Folders.Properties.Resources.resources
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.GenerateResource.cache
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.CoreCompileInputs.cache
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare Folders.exe
+C:\Users\m.maghrebi\source\repos\Compare Folders\Compare Folders\obj\Debug\Compare Folders.pdb
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\bin\Debug\Compare Folders.exe.config
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\bin\Debug\Compare Folders.exe
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\bin\Debug\Compare Folders.pdb
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.AssemblyReference.cache
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.SuggestedBindingRedirects.cache
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare_Folders.Form1.resources
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare_Folders.Properties.Resources.resources
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.GenerateResource.cache
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.CoreCompileInputs.cache
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.exe
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.pdb
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.AssemblyReference.cache
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare_Folders.Form1.resources
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare_Folders.Properties.Resources.resources
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.GenerateResource.cache
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.CoreCompileInputs.cache
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare Folders.exe
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\obj\Debug\Compare Folders.pdb
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\bin\Debug\Compare Folders.exe.config
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\bin\Debug\Compare Folders.exe
+C:\Users\m.maghrebi\Desktop\Compare Folders\Compare Folders\bin\Debug\Compare Folders.pdb
+E:\Maghrebi\SVN\Temp\M.Maghrebi10165\Visual Studio Applications\Compare Folders\Compare Folders\obj\Debug\Compare Folders.csproj.ResolveComReference.cache
