@@ -1,33 +1,50 @@
 # FolderComparator
-Compares two C/C++ or C# projects file by file.
+This application compares two C/C++ or C# projects file by file.
 
-for example if one project has a "file1.c", the application searchs for the "file1.c" in the second application, and compare both of them.
+### for example:
+If one project has a file named "file1.c", the application searches for a file named "file1.c" in the second project and then compares the contents of both files.
 
-Also you can use Notepad++ compare plugin to find the differences.
+### Notepad++ Integration:
+You can use the Notepad++ Compare plugin to visualize the differences between the compared files.
 
-The application can beautify the codes, remove the comments and then compare them.
+The application can optionally beautify the code (improve formatting) and remove comments before comparing the files.
 
 ## How to use
-1- Browse the first project folder by clicking top 'open' button
+### 1. Browse the First Project Folder:
+Click the top "Open" button to select the folder containing the first project.
 
-2- Browse the first project folder by clicking bottom 'open' button
+### 2. Browse the Second Project Folder:
+Click the bottom "Open" button to select the folder containing the second project.
 
-this tool removes comments and makes the code beautified and then compares them together with selected checkboxes.
+## Comparison Options:
+### Remove Comments:
+This option removes comments from the code before comparison.
+### Beautify Code:
+This option improves the formatting of the code before comparison.
 
-By clicking the 'Compare' button you see all files with differences in the right listbox
+The selected options are applied when you click the "Compare" button.
 
-By double click on the item in compare listbox, openes the both files in Notepad++
+## Compare Results:
 
-## How to use Notepad++ Compare Tool
-First Install Notepad++ Compare plugin
+Clicking the "Compare" button displays a list of all files with differences in the right-hand list box.
 
-the default shortkey to compare two files in notepad++ is ALT+CTRL+C, you should change it to: CTRL+SHIFT+C
+Double-clicking an item in the list box opens both files (original and modified) in Notepad++ for further analysis.
 
-## How to change compare shortkey in Notepadd++:
-in Notepad++ in top menu:
+## How to Use Notepad++ Compare Tool
+### 1. Install Notepad++ Compare Plugin:
 
-Settings -> Shortcut Mapper -> Plugin Commands (Tab)
+The Compare plugin is not included in the default Notepad++ installation. You need to install it separately.
 
-change the 'Compare' Shortcut to  Ctrl+Shift+C
+### 2. Change Compare Shortcut (Optional):
+
+The default shortcut for comparing files in Notepad++ is Alt+Ctrl+C. You can change this shortcut to Ctrl+Shift+C to integrate with the application.
+
+### Here's how to change the compare shortcut in Notepad++:
+Open Notepad++.
+Go to the Settings menu.
+Select Shortcut Mapper.
+Click on the Plugin Commands tab.
+Find the "Compare" command and change the shortcut to Ctrl+Shift+C.
+Click Save to apply the changes.
 
 
