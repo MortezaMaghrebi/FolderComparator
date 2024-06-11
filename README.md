@@ -40,11 +40,11 @@ The Compare plugin is not included in the default Notepad++ installation. You ne
 The default shortcut for comparing files in Notepad++ is Alt+Ctrl+C. You can change this shortcut to Ctrl+Shift+C to integrate with the application.
 
 ### Here's how to change the compare shortcut in Notepad++:
-Open Notepad++.
-Go to the Settings menu.
-Select Shortcut Mapper.
-Click on the Plugin Commands tab.
-Find the "Compare" command and change the shortcut to Ctrl+Shift+C.
-Click Save to apply the changes.
+- Open Notepad++.
+- Go to the Settings menu.
+- Select Shortcut Mapper.
+- Click on the Plugin Commands tab.
+- Find the "Compare" command and change the shortcut to Ctrl+Shift+C.
+- Click Save to apply the changes.
 
 
